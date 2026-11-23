@@ -10,4 +10,4 @@ I'm currently working on a **WITCHCARD** - A typing Rogue-like game, which is my
 
 I'm also working through my **CCNA** certifications, because I like understanding how things work under the hood.
 
-If you want to get in touch, you can reach me on [LinkedIn][(https://linkedin.com/in/aleksaminicic/)] or at aleksamincic@elfak.rs.
+If you want to get in touch, you can reach me on [LinkedIn](https://linkedin.com/in/aleksaminicic/) or at aleksamincic@elfak.rs.
